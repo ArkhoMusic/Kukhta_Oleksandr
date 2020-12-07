@@ -1,0 +1,7 @@
+D:\Kukhta_Oleksandr\MKR2\bin\Debug\MKR2.exe.config
+D:\Kukhta_Oleksandr\MKR2\bin\Debug\MKR2.exe
+D:\Kukhta_Oleksandr\MKR2\bin\Debug\MKR2.pdb
+D:\Kukhta_Oleksandr\MKR2\obj\Debug\MKR2.csprojAssemblyReference.cache
+D:\Kukhta_Oleksandr\MKR2\obj\Debug\MKR2.csproj.CoreCompileInputs.cache
+D:\Kukhta_Oleksandr\MKR2\obj\Debug\MKR2.exe
+D:\Kukhta_Oleksandr\MKR2\obj\Debug\MKR2.pdb

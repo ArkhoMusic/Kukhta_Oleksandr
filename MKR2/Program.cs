@@ -10,7 +10,9 @@ namespace MKR2
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World");
+            int a = 10 + 25;
+            Console.WriteLine("10+25= "+ a);
+
             Console.ReadKey();
         }
     }
